@@ -16,5 +16,4 @@ A personal/educational project developed to showcase fundamental frontend web de
 
 ## Live Demo
 
-You can view the live website here:
-[View Website (Live Demo)]()
+[View Website (Live Demo)](https://deemaa-hub.github.io/watch-site/)
